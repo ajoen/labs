@@ -5,7 +5,10 @@ At [ajoen](http://ajoen.com) we love, use and support open source software. We a
 ## Projects
 
 ### [django-blog-hvad](https://github.com/sensimevanidus/django-blog-hvad)
-A simple yet useful [django](https://www.djangoproject.com) application you can use to create a beautiful blog for free!
+A simple yet useful [django](https://www.djangoproject.com) application you can use to create a beautiful blog for free.
+
+### [django-cockpit](https://github.com/ajoen/django-cockpit)
+Dead simple CMS application for [django](https://www.djangoproject.com).
 
 ## Basic Rules
 
